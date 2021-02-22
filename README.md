@@ -1,3 +1,8 @@
+## HELLO!
+
+Welcome to my personal website!
+
+
 <p align="center"
 <img src="https://sun9-43.userapi.com/impf/LZLgcXPp_nN72OJy75hTkVKSDwarZxwtRMf09w/kMAQTRBxwcc.jpg?size=1280x580&quality=96&proxy=1&sign=ff1ae55e021f0302d8e8974327e4a946&type=album"></p>
 <p align="center">
@@ -6,6 +11,3 @@
 <img src="https://sun9-10.userapi.com/impf/NGjC56g32ov-mquapkT8iZvRgb093hO2yZlMnA/A4IO_E_95q0.jpg?size=1280x581&quality=96&proxy=1&sign=0236adb0a25c776a008906b850c9dbbf&type=album" alt=""></a>
 </p>
 
-## About Portfolio website
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects
